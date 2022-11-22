@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name"><b>Grocery</b>Home</string>
+    <string name="myacc_profile">My Account</string>
+    <string name="name_profile">John Stalin</string>
+    <string name="number_profile">8963734637</string>
+    <string name="grocery_home">GroceryHome</string>
+    <string name="text_started">Your grocery partner at \n a step away</string>
+    <string name="getstarted">Get Started</string>
+    <string name="address">Address</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgotpass_login">Forgot Password</string>
+    <string name="login_btn">Login</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="signup">Signup</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or">OR</string>
+    <string name="continue_with">Continue with</string>
+    <string name="name">Name</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="already_had_an_acc">Already had an account? </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

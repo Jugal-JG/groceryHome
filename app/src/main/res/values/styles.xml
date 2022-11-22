@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="baloo_24">
+        <item name="android:fontFamily">@font/baloo_bhai_2</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="baloo_40">
+        <item name="android:fontFamily">@font/baloo_bhai_2</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+
+    <style name="baloo_18">
+        <item name="android:fontFamily">@font/baloo_bhai_2</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>
